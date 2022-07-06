@@ -116,11 +116,6 @@ p {
     float: left;
 }
 
-.right {
-    width: 40%;
-    float: right;
-}
-
 .title {
     font-family: 'Barlow';
     font-style: normal;
@@ -174,9 +169,3 @@ p {
     width: 1440px;
     margin: 0 auto;
 }
-
-.right{
-    position: relative;
-    margin: 0 auto;
-}
-    
